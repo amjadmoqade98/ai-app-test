@@ -1,0 +1,7 @@
+{
+  "name": "LinguaLink AI",
+  "description": "A universal voice translator powered by Gemini. Hold to speak in any language and get an instant English translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
